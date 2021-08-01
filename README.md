@@ -4,6 +4,4 @@
 
 - 📚 Folder src **Contain main class**
 
-- 📓 I’m currently learning **Python, Java and Javascript**
-
 - 📋 Folder testcases **Contain basic test to validate**
