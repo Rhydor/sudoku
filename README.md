@@ -1,3 +1,4 @@
+<h1> CHECK SUDOKU </h1>
 <h3 align="center">This java check if sudoku its correct or not</h3>
 
 - 📚 Folder src **Contain main class**
