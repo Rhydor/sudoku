@@ -5,3 +5,5 @@
 - 📚 Folder src **Contain main class**
 
 - 📋 Folder testcases **Contain basic test to validate**
+
+- 🕹 Folder toplay **Contain templates to play**
