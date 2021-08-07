@@ -81,7 +81,7 @@ public class sudoku {
     public static void uploadSudoku(int choose){
         String vali = files.get(choose);
         try{
-            File    txt  = new File("testcases\\"+vali+".txt");
+            File    txt  = new File("testcases//"+vali+".txt");
             Scanner read = new Scanner(txt);
             while (read.hasNextInt()){
                 for (int i = 0; i < 9; i++) {
